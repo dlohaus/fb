@@ -1,8 +1,4 @@
 Das ist ein Test
 Das ist jetzt Version 2!
-<<<<<<< HEAD
 changed dennis
-=======
-
 Thomas pfuscht auch drin rum!
->>>>>>> origin/master
